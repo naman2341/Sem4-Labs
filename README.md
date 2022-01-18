@@ -4,4 +4,4 @@
 | Sl No| Course Code | Course Title                                       |
 | :----|:-----------:|----------------------------------------------------|
 | 1    | UE20CS255   |<a href="https://github.com/naman2341/Sem4-Labs/tree/main/CN%20Lab">Computer Networks Laboratory                                 |
-| 2    | UE20CS256   |<a href="https://github.com/naman2341/Sem4-Labs/tree/main/MCA%20Lab">Microprocessor and Computer Architecture Laboratory         |
+| 2    | UE20CS256   |<a href="https://github.com/naman2341/Sem4-Labs/tree/main/MPCA%20Lab">Microprocessor and Computer Architecture Laboratory         |

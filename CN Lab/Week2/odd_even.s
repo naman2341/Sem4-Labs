@@ -1,7 +1,7 @@
 
 .text
         
-        MOV r1, #3
+        MOV r1, #12
         ANDs r2, r1, #1
         
         

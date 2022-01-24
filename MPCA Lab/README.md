@@ -25,3 +25,8 @@
 - Arduino Microcontroller kit
 - MIPS pipeline simulator
 - Para Cache simulator
+
+### ARM Sim alternatives
+<a href="https://salmanarif.bitbucket.io/visual/">visUAL (but works only with UAL)</a>
+<a href="https://wunkolo.github.io/OakSim/">OakSim</a>
+<a href="https://cpulator.01xz.net/?sys=arm">CPUlator</a>

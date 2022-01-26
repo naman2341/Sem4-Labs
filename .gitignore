@@ -4,9 +4,9 @@
 # Ignore extra template files
 MPCA\ Lab/Templates/
 CN\ Lab/Templates/
+OS/Templates/
 
-#All templates
-*/Template*/
+
 
 
 

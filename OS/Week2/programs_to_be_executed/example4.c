@@ -58,7 +58,7 @@ int main()
            
            printf("This is grandchild. Process Id = %d, Parent Process Id = %d, y = %d\n", getpid(), getppid(), y);
 
-           execl("/bin/ls", "/home/nivedita/osprograms", "-r", NULL);
+           execl("/bin/ls", "/Users/naman2341/Documents/Sem4/PES2UG20CS209/OS/Week2", "-r", NULL);
 
            exit(0);
         }
@@ -69,7 +69,7 @@ int main()
 
         char *a[] = {NULL};
 
-        execv("/home/nivedita/osprograms/example1.exe", a);
+        execv("/Users/naman2341/Documents/Sem4/PES2UG20CS209/OS/Week2/programs_to_be_executed/example4.exe", a);
 
         exit(0);
     }

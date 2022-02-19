@@ -1,4 +1,4 @@
-# Sem4-Resources
+# Sem4-Labs
 4th Semester Labs
 
 | Sl No| Course Code | Course Title                                       |

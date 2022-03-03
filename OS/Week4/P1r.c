@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
@@ -10,7 +11,7 @@ struct my_msgbuf {
 
 int main() {
   struct my_msgbuf msg;
-  int msgid = msgget(ftok("helo", 65), 0777);
+  int msgid = msgget(ftok("abc", 65), 0777);
   char output[1000];
   msgrcv(msgid, &msg, sizeof(msg), 1, 0);
   // message rcv revices all the messages of type 1
